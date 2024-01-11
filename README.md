@@ -28,4 +28,8 @@ Technically, with .gitignore, you can hide your key but any script that is store
 Thus, if you want to test the code, you gotta get your own auth key from GitHub and add it to a config.js file.
 
 
+## Preview of the project
+<img src='output img-1.png' alt='project image...' /> <br />
+<img src='output img-2.png' alt='project image...' />
+
 
