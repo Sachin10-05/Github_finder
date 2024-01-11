@@ -1,9 +1,10 @@
 # Github-Finder-Application
-Application for finding github users and display their info when github user profile is selected.
-### To see the output [CLICK HERE](http://htmlpreview.github.io/?https://github.com/Sachin10-05/Github-Finder-Application/blob/main/index.html)
+Application for finding github users and display their info like - repositories, followers, Github profile, links and soon, when github user name is selected. <br />
+To see the output [CLICK HERE](http://htmlpreview.github.io/?https://github.com/Sachin10-05/Github-Finder-Application/blob/main/index.html)  <br/>
+Preview of the project: 
 
 
-# Objective
+## Objective
 In order to improve my knowledge of jQuery, which I have been trying to learn recently. So, I choose this Github Finder project to enhance my knowlege on this tech stack.
 
 
