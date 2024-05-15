@@ -1,5 +1,5 @@
 # Github-Finder-Application
-Application for finding github users and display their info like - repositories, followers, Github profile, links and soon, when github user name is selected. <br />
+Application for finding github users and display their info like - user repositories, followers, Github profile, links and soon, when github user name is selected. <br />
 To see the output: [CLICK HERE](http://htmlpreview.github.io/?https://github.com/Sachin10-05/Github-Finder-Application/blob/main/index.html)  <br/>
 
 
